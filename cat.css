@@ -1,0 +1,55 @@
+
+#home li{
+	display: inline;
+	padding-left: 25px;
+	float: right;
+	padding-right: 25px;
+}
+body{
+	background-color: #DCDCDC;
+}
+h2{
+	color: brown;
+}
+#home li a:hover{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+.black{
+	background-image: url(Pictures/capes.jpg)
+}
+#footer{
+	background-color: #696969;
+}
+
+.pic{
+	background-image: 100%;
+	background-image: url(Pictures/misty.jpg);
+	height: 600px;
+	width: 1330px;
+
+}
+.paragraph{
+	font-size: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: sans-serif;
+}
+#find li{
+	display: inline;
+}
+
+table {
+	table {
+    border-collapse: collapse;
+    border: 5px solid black;
+    width: 100%;
+}
+td {
+    width: 50%;
+    height: 2em;
+    border: 1px solid black;
+}
+.black{
+	background-image: url(Pictures/capes.jpg)
+}
